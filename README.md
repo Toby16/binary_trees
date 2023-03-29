@@ -1,2 +1,2 @@
-# binary_trees
+# Binary Trees 🌳
 Binary Tree (Data Structure and Algorithm)
